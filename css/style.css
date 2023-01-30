@@ -1,8 +1,11 @@
-.parraf-1{
+    .parraf-1{
     color:red;
     font:1em sans-serif;
     text-align:justify;
 }
+    .parraf-2{color:yellow;}
+    .parraf-3{color: blue;}
+    .parraf-4{color: purple;}
 .h1{
     size:30px;
     color:cyan;
